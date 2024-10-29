@@ -1,7 +1,5 @@
 # Credit_Card_Anomaly_Detection_by_Michae14
 
-This project focuses on creating a robust machine learning pipeline for anomaly detection in credit card transactions. The project primarily deals with feature engineering techniques aimed at improving model performance in detecting potentially fraudulent activities.
-
 ## Summary
 This project develops a machine learning pipeline for detecting anomalies in credit card transactions. It emphasizes feature engineering techniques tailored to improve model accuracy for identifying fraudulent or suspicious activities. Key steps include data preprocessing, handling missing values, feature scaling, and encoding. The pipeline leverages various transformations and feature selection methods to enhance the data quality, which supports a robust anomaly detection model.
 
